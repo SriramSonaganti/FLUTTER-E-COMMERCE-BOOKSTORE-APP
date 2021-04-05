@@ -21,7 +21,6 @@ These are the app secreens
 
 ![Login](https://user-images.githubusercontent.com/72183029/113534847-735b0780-95ef-11eb-95cc-f4e98c36d121.jpg)
 ![Signup](https://user-images.githubusercontent.com/72183029/113534856-79e97f00-95ef-11eb-8fbb-53804dfbff86.jpg)
-![Enter deatils](https://user-images.githubusercontent.com/72183029/113534857-7a821580-95ef-11eb-8864-15179ef19854.jpg)
 ![Order tracking page](https://user-images.githubusercontent.com/72183029/113534908-94235d00-95ef-11eb-85d4-e6c3898c560a.jpg)
 ![Orders page](https://user-images.githubusercontent.com/72183029/113534911-95ed2080-95ef-11eb-9c7d-51de5081ddb0.jpg)
 ![Product page](https://user-images.githubusercontent.com/72183029/113534912-95ed2080-95ef-11eb-8c38-013847101301.jpg)
