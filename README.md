@@ -17,7 +17,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-These are the app secreens 
+These are the app screens 
 
 
 | <img src="https://user-images.githubusercontent.com/72183029/113534847-735b0780-95ef-11eb-95cc-f4e98c36d121.jpg" width="200">  <img src="https://user-images.githubusercontent.com/72183029/113534856-79e97f00-95ef-11eb-8fbb-53804dfbff86.jpg" width="200">  | <img src="https://user-images.githubusercontent.com/72183029/113534908-94235d00-95ef-11eb-85d4-e6c3898c560a.jpg" width="200"> 
